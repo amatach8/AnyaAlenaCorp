@@ -1,4 +1,8 @@
 added text
 add text alena
+<<<<<<< HEAD
 added changes 
 
+=======
+add new line
+>>>>>>> 8213c9af2d67b3051ed14173e2ac13ee7abdf94b
